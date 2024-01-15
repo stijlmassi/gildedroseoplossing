@@ -10,6 +10,7 @@ Het belangrijkste idee is om alles zo plat en zelf-ingesloten mogelijk te houden
 - Het creëren en toevoegen van handlers (voor nieuwe soorten items) volgens dezelfde logica is ook eenvoudig.
 - Geen else statements.
 - Zo min mogelijk geneste statements.
+- Met als doel self-encapsulation te bevorderen, heb ik ook geen constanten bovenaan de klasse of enums gebruikt.
 
 
 Ik overweeg hier dat het vermijden van technical debt kosteneffectiever is dan eventuele kleine inefficiënties en redundanties die ik zou kunnen hebben geïntroduceerd.
