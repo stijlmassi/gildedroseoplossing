@@ -8,7 +8,7 @@ Het belangrijkste idee is om alles zo plat en zelf-ingesloten mogelijk te houden
 - Het verwijderen van een handler is eenvoudig en heeft geen invloed op
   andere handlers.
 - Geen else statements.
--Zo min mogelijk geneste statements.
+- Zo min mogelijk geneste statements.
 
 
 Ik overweeg hier dat het vermijden van technical debt kosteneffectiever is dan eventuele kleine inefficiënties en redundanties die ik zou kunnen hebben geïntroduceerd.
