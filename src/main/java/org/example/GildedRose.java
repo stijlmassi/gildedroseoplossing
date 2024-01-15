@@ -7,6 +7,10 @@ public class GildedRose {
         this.items = items;
     }
 
+    /**
+     * Updates quality of items
+     * Should be run at end of each day
+     */
     public void updateQuality() {
         for(Item item : items){
             handleAgedBrie(item);
