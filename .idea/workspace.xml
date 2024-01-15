@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2933b47-21fc-4c90-8f6c-7ff8589164bb" name="Changes" comment="added javadocs for updateQuality method">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/ReadMe.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -141,7 +140,7 @@
       <option name="presentableId" value="Default" />
       <updated>1705329698502</updated>
       <workItem from="1705329699548" duration="8716000" />
-      <workItem from="1705347318372" duration="414000" />
+      <workItem from="1705347318372" duration="458000" />
     </task>
     <task id="LOCAL-00001" summary="Woops..">
       <option name="closed" value="true" />
@@ -167,7 +166,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705347818820</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added javadocs for updateQuality method">
+      <option name="closed" value="true" />
+      <created>1705351883250</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1705351883250</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
