@@ -7,6 +7,7 @@ Het belangrijkste idee is om alles zo plat en zelf-ingesloten mogelijk te houden
 - Een andere programmeur moet onmiddellijk begrijpen wat er gebeurt.
 - Het verwijderen van een handler is eenvoudig en heeft geen invloed op
   andere handlers.
+- Het creëren en toevoegen van handlers (voor nieuwe soorten items) volgens dezelfde logica is ook eenvoudig.
 - Geen else statements.
 - Zo min mogelijk geneste statements.
 
